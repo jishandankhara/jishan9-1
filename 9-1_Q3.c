@@ -1,6 +1,6 @@
 #include<stdio.h>
 void main(){
-int j,i,s;
+int i,s;
 printf("Enter arraay size:");
 scanf("%d",&s);
 
